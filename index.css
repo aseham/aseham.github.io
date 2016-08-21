@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Ubuntu1';
+  src: url('fonts/Ubuntu-R.ttf');
+}
+
+@font-face {
+  font-family: 'Ubuntu2';
+  src: url('fonts/Ubuntu-L.ttf');
+}
+
+@font-face {
+  font-family: 'UbuntuM';
+  src: url('fonts/UbuntuMono-R.ttf');
+}
+
+p.title_text {
+  text-align: center;
+  color: blue;
+  font-size: 30px;
+  font-family: 'Ubuntu1';
+}
+
+p.content {
+  margin: auto;
+  text-align: left;
+  color: black;
+  font-size: 22px;
+  font-family: 'Ubuntu2';
+}
