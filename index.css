@@ -20,10 +20,10 @@ p.title_text {
   font-family: 'Ubuntu1';
 }
 
-p.content {
+p.isi {
   margin: auto;
   text-align: left;
   color: black;
   font-size: 22px;
-  font-family: 'Ubuntu2';
+  font-family: 'UbuntuM';
 }
